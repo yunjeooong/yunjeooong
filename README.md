@@ -23,4 +23,4 @@ Here are some ideas to get you started:
  <br>
  
 </div>
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=Burpeeeee&color=dark)](https://velog.io/@yjc6623)
+ [![profile-velog-1](https://profile-velog.vercel.app/api?id=yjc6623&seq=0)](https://velog.io/@yjc6623) 
