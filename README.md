@@ -27,6 +27,4 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yjc6623)](https://velog.io/@yjc6623/posts)
-
 
